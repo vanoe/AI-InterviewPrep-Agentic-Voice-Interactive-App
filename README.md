@@ -83,24 +83,24 @@ It’s designed to make **interview preparation accessible, effective, and engag
     <tbody>
         <tr>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/c406e7a4-704a-4c96-80c4-fda7a37b9b25" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/c5c38239-0d74-45d9-86ec-98bcf593ced3" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/7ddc5948-b7cd-4fae-85d7-08552cd061d9" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/a96b03f3-f497-4b01-a05c-09b70bb953b9" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
