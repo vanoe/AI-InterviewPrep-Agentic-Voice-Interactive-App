@@ -8,7 +8,12 @@ It’s designed to make **interview preparation accessible, effective, and engag
 
 ---
 
-## 🛠 Problem Solved
+## 📊 Full Description
+
+<details>
+  <summary>📖 Click to expand the Description</summary>
+
+### 🛠 Problem Solved
 Preparing for interviews often requires:
 - ✅ Personalized practice
 - ✅ Real-time feedback
@@ -19,7 +24,7 @@ This app solves the gap by providing **intelligent, voice-driven interview train
 
 ---
 
-## 🚀 Solution & Achievements
+### 🚀 Solution & Achievements
 - 🧠 **Agentic AI architecture**: Modular interview agents (questioning, feedback, hints).
 - 🎤 **Full voice interaction**: Google STT/TTS + WebRTC for real-time conversations.
 - 📊 **Feedback evaluation**: Assess clarity, relevance, and tone.
@@ -28,7 +33,7 @@ This app solves the gap by providing **intelligent, voice-driven interview train
 
 ---
 
-## 🔑 Key Achievements
+### 🔑 Key Achievements
 - Built modular **LangChain + Mistral** agents for interview flow.
 - Enabled **low-latency voice sessions** via WebRTC.
 - Developed **feedback agents** for real-time scoring & tips.
@@ -37,7 +42,9 @@ This app solves the gap by providing **intelligent, voice-driven interview train
 
 ---
 
-## 🧩 Training & System Highlights
+### 🧩 Training & System Highlights
 - **Agentic AI Structure**: Specialized agents for questioning, evaluation, hints, and follow-ups.
 - **Voice Interaction**: Google STT/TTS APIs + WebRTC for smooth speech-driven dialogue.
 - **Feedback Loop**: Responses analyzed
+
+</details>
