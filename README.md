@@ -77,6 +77,37 @@ It’s designed to make **interview preparation accessible, effective, and engag
     </tbody>
 </table>
 
+## 🎥 Video Examples
+
+<table>
+    <tbody>
+        <tr>
+            <td width="50%">
+                <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td width="50%">
+                <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td width="50%">
+                <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ---
 
 ## 📊 Full Description
