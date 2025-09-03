@@ -14,6 +14,71 @@ It’s designed to make **interview preparation accessible, effective, and engag
 
 ---
 
+## 🧩 Examples
+
+<table>
+    <tbody>
+        <tr>
+            <td width="50%">
+                <img src="./img/img-2.png" alt="img" />
+            </td>
+            <td width="50%">
+                <img src="./img/img-3.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <img src="./img/img-4.png" alt="img" />
+            </td>
+            <td width="50%">
+                <img src="./img/img-5.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <img src="./img/img-6.png" alt="img" />
+            </td>
+            <td width="50%">
+                <img src="./img/img-7.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <img src="./img/img-8.png" alt="img" />
+            </td>
+            <td width="50%">
+                <img src="./img/img-9.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <img src="./img/img-10.png" alt="img" />
+            </td>
+            <td width="50%">
+                <img src="./img/img-11.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <img src="./img/img-12.png" alt="img" />
+            </td>
+            <td width="50%">
+                <img src="./img/img-13.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <img src="./img/img-14.png" alt="img" />
+            </td>
+            <td width="50%">
+                <img src="./img/img-15.png" alt="img" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
 ## 📊 Full Description
 
 <details>
