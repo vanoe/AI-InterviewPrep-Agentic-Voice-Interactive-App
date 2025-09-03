@@ -108,6 +108,31 @@ It’s designed to make **interview preparation accessible, effective, and engag
     </tbody>
 </table>
 
+<table>
+    <tbody>
+        <tr>
+            <td width="50%">
+                <video src="https://github.com/user-attachments/assets/ec064854-2693-42cf-b901-8ccd0e7c440c" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td width="50%">
+                <video src="https://github.com/user-attachments/assets/6720d7c5-8c77-45db-aaad-00c998671c8d" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <video src="https://github.com/user-attachments/assets/c23262b5-a87f-4ed9-b4b2-b4b5d4e6a3fb" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td width="50%"></td>
+        </tr>
+    </tbody>
+</table>
+
 ---
 
 ## 📊 Full Description
