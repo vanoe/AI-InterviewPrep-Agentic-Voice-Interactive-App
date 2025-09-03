@@ -8,6 +8,12 @@ It’s designed to make **interview preparation accessible, effective, and engag
 
 ---
 
+## 🗂️ Scheme
+
+<img src="./img/img-1.png" alt="Scheme" />
+
+---
+
 ## 📊 Full Description
 
 <details>
